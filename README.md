@@ -85,6 +85,11 @@ python3 generate_drive_token.py
 ```
 ## Deploying
 
+- Installing Docker
+```
+sudo apt install docker.io
+```
+
 - Start docker daemon (skip if already running):
 ```
 sudo dockerd
